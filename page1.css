@@ -1,0 +1,53 @@
+h1 {
+    font-family: cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(205, 255, 211);
+ } 
+
+ h2 {
+    font-family: cursive;
+    text-align: center;
+    background-color: darkolivegreen;
+    border-radius: 14px;
+ }
+
+ p {
+    font-family: cursive;
+    font-size: 1.4em;
+    text-align: justify;
+    margin-bottom: 20px;
+    direction: ltr;
+}
+ 
+
+
+ h3 {
+     font-family: cursive;
+     text-align: center;
+ }
+
+ .image-container {
+    padding: 10 px;
+    top: 25%;
+    right: 100px;
+    overflow: hidden;
+    transform: scale(0.7);
+    display: flex;
+    margin-top: -39px;
+    gap: 20px;
+}
+
+.image-container img {
+    max-width: 100%;
+    margin-right: 10px;
+}
+
+.text {
+    font-family: cursive;
+    font-size: 1.2em;
+}
+

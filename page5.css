@@ -1,0 +1,32 @@
+h2 {
+    font-family: cursive;
+    text-align: center;
+    background-color: darkolivegreen;
+    border-radius: 14px;
+ }
+
+ h1 {
+    font-family: cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(205, 255, 211);
+ } 
+
+ p {
+    font-family: cursive;
+    font-size: 1.4em;
+    text-align: justify;
+    margin-bottom: 20px;
+    direction: ltr;
+}
+
+img {
+    max-width: 100%;
+    padding: 10px;
+    transform: scale(0.7);
+    margin-top: -80px;
+    float: center;
+}
